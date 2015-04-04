@@ -1,13 +1,13 @@
 <%= evil_icons_sprite %>
 
 <div class="uk-width-1-1 border-bottom">
+    <h1 style="margin-bottom: 20px;" class="uk-align-left margin-left-large margin-top-large margin-bottom-large">
+      <b>Ivory</b>
+    </h1>
 
-  <div class="uk-width-1-2 uk-container-center">
-    <h1 class="uk-align-left"><b>Ivory</b></h1>
-    <h2 class='uk-text-left'>A modern, technology-led approach to preventive
-      healthcare</h2>
-  </div>
-
+    <ul class="uk-list uk-float-right margin-right-large">
+      <li><a href="#menu-modal" data-uk-modal><%= evil_icon 'ei-navicon', size: :m %></a></li>
+    </ul>
 </div>
 
 
@@ -46,4 +46,29 @@
     points towards cool gifts and more.</p>
   </div>
 
+</div>
+
+<!-- Modals -->
+
+<div id="menu-modal" class="uk-modal">
+  <div class="uk-modal-dialog uk-modal-dialog-large uk-height-viewport uk-vertical-align">
+    <div class="uk-width-1-6 uk-vertical-align-middle"></div>
+    <div class="uk-width-2-6 uk-vertical-align-middle border-right menu-panel" style="padding-right: 100px;">
+      <h2>Members</h2>
+      <form class="uk-form uk-form-stacked">
+        <div class="uk-form-row">
+          <div class="uk-form-controls">
+            <input type="text" placeholder="Your email address" class="uk-width-1-1 uk-form-large" />
+            <input type="text" placeholder="Your password" class="uk-width-1-1 uk-form-large" />
+          </div>
+        </div>
+        <button class="uk-button uk-button-primary uk-button-large uk-width-1-1 margin-top-large" type="submit">Sign in</button>
+        <h5 class="uk-float-right forgot-password">Forgot your password?</h5>
+      </form>
+    </div>
+    <div class="uk-width-2-6 uk-vertical-align-middle menu-panel" style="padding-left: 100px;">
+      <p>dd</p>
+    </div>
+    <div class="uk-width-1-6 uk-vertical-align-middle"></div>
+  </div>
 </div>

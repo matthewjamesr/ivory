@@ -10,9 +10,9 @@
  * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
  * file per style scope.
  *
+ *= require uikit
  *= require_tree .
  *= require_self
- *= require uikit
  *= require evil-icons
  */
 
@@ -22,11 +22,20 @@ html, body {
   padding: 0px;
 }
 
+/* Modals */
+.uk-modal-dialog {
+  border-radius: 5px;
+  max-height: 85%;
+}
+
 /* Borders */
 $border-color: darken(#FFFFFF, 10%);
 
 .border-bottom {
   border-bottom: 1px solid $border-color;
+}
+.border-right {
+  border-right: 1px solid $border-color;
 }
 
 /* Margins */

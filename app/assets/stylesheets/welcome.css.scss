@@ -6,6 +6,10 @@ $bg-color: #3763DB;
 $primary-text: darken(#FFFFFF, 5%);
 $alt-text: lighten($bg-color, 35%);
 
+.nav-icon {
+
+}
+
 .hero {
   padding-top: 100px;
   padding-bottom: 100px;
@@ -13,5 +17,14 @@ $alt-text: lighten($bg-color, 35%);
   .call-to-actions {
     padding-left: 25px;
     padding-right: 25px;
+  }
+}
+
+.menu-panel {
+  height: 60%;
+  text-align: left;
+
+  .forgot-password {
+    margin-top: 5px;
   }
 }
