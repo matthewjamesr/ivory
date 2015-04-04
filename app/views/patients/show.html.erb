@@ -1,0 +1,18 @@
+<h1>Patient added</h1>
+<p>Confirmation of patient added</p>
+
+<p>
+    <strong>Name:</strong>
+    <%= @patient.name %>
+</p>
+<p>
+    <strong>Age:</strong>
+    <%= @patient.age %>
+</p>
+<p>
+    <strong>Provider:</strong>
+    <%= @patient.provider %>
+</p>
+
+<%= link_to 'Edit', edit_patient_path(@patient) %> |
+<%= link_to 'Back', patients_path %>

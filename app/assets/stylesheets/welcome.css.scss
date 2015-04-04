@@ -1,0 +1,17 @@
+// Place all the styles related to the welcome controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+$bg-color: #3763DB;
+$primary-text: darken(#FFFFFF, 5%);
+$alt-text: lighten($bg-color, 35%);
+
+.hero {
+  padding-top: 100px;
+  padding-bottom: 100px;
+
+  .call-to-actions {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+}
