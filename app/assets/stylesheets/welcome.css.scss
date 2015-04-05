@@ -5,6 +5,7 @@
 $bg-color: #3763DB;
 $primary-text: darken(#FFFFFF, 5%);
 $alt-text: lighten($bg-color, 35%);
+$border-color: darken(#FFFFFF, 10%);
 
 .nav-icon {
 
@@ -24,7 +25,11 @@ $alt-text: lighten($bg-color, 35%);
   height: 60%;
   text-align: left;
 
-  .forgot-password {
-    margin-top: 5px;
+  .button-sub-text {
+    margin-top: 10px;
   }
+}
+
+.button {
+  border: 1px solid $border-color;
 }

@@ -16,11 +16,17 @@
  *= require evil-icons
  */
 
+/* Setup Colors */
+$text-alternate: darken(#FFFFFF, 45%);
+
 html, body {
   position: relative;
   margin: 0px;
   padding: 0px;
 }
+
+/* Text Setup */
+.text-alt { color: $text-alternate; }
 
 /* Modals */
 .uk-modal-dialog {
