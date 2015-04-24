@@ -51971,3 +51971,873 @@ Started GET "/assets/patients.js?body=1" for 214.3.17.37 at 2015-04-24 03:05:59 
 
 
 Started GET "/assets/welcome.js?body=1" for 214.3.17.37 at 2015-04-24 03:05:59 +0000
+
+
+Started GET "/" for 214.3.17.38 at 2015-04-24 03:08:23 +0000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 224ms (Views: 222.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/uikit.css?body=1" for 214.3.17.38 at 2015-04-24 03:08:23 +0000
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 214.3.17.38 at 2015-04-24 03:08:23 +0000
+
+
+Started GET "/assets/welcome.css?body=1" for 214.3.17.38 at 2015-04-24 03:08:23 +0000
+
+
+Started GET "/assets/jquery.js?body=1" for 214.3.17.38 at 2015-04-24 03:08:23 +0000
+
+
+Started GET "/assets/patients.css?body=1" for 214.3.17.38 at 2015-04-24 03:08:23 +0000
+
+
+Started GET "/assets/evil-icons.css?body=1" for 214.3.17.38 at 2015-04-24 03:08:23 +0000
+
+
+Started GET "/assets/application.css?body=1" for 214.3.17.38 at 2015-04-24 03:08:23 +0000
+
+
+Started GET "/assets/turbolinks.js?body=1" for 214.3.17.38 at 2015-04-24 03:08:23 +0000
+
+
+Started GET "/assets/uikit/uikit.js?body=1" for 214.3.17.38 at 2015-04-24 03:08:23 +0000
+
+
+Started GET "/assets/uikit/components/autocomplete.js?body=1" for 214.3.17.38 at 2015-04-24 03:08:23 +0000
+
+
+Started GET "/assets/uikit/components/cover.js?body=1" for 214.3.17.38 at 2015-04-24 03:08:23 +0000
+
+
+Started GET "/assets/uikit/components/datepicker.js?body=1" for 214.3.17.38 at 2015-04-24 03:08:23 +0000
+
+
+Started GET "/assets/uikit/components/form-password.js?body=1" for 214.3.17.38 at 2015-04-24 03:08:23 +0000
+
+
+Started GET "/assets/uikit/components/form-select.js?body=1" for 214.3.17.38 at 2015-04-24 03:08:23 +0000
+
+
+Started GET "/assets/uikit/components/htmleditor.js?body=1" for 214.3.17.38 at 2015-04-24 03:08:23 +0000
+
+
+Started GET "/assets/uikit/components/nestable.js?body=1" for 214.3.17.38 at 2015-04-24 03:08:23 +0000
+
+
+Started GET "/assets/uikit/components/notify.js?body=1" for 214.3.17.38 at 2015-04-24 03:08:23 +0000
+
+
+Started GET "/assets/uikit/components/pagination.js?body=1" for 214.3.17.38 at 2015-04-24 03:08:23 +0000
+
+
+Started GET "/assets/uikit/components/search.js?body=1" for 214.3.17.38 at 2015-04-24 03:08:23 +0000
+
+
+Started GET "/assets/uikit/components/sortable.js?body=1" for 214.3.17.38 at 2015-04-24 03:08:23 +0000
+
+
+Started GET "/assets/uikit/components/sticky.js?body=1" for 214.3.17.38 at 2015-04-24 03:08:23 +0000
+
+
+Started GET "/assets/uikit/components/timepicker.js?body=1" for 214.3.17.38 at 2015-04-24 03:08:23 +0000
+
+
+Started GET "/assets/uikit/components/upload.js?body=1" for 214.3.17.38 at 2015-04-24 03:08:23 +0000
+
+
+Started GET "/assets/uikit.js?body=1" for 214.3.17.38 at 2015-04-24 03:08:23 +0000
+
+
+Started GET "/assets/patients.js?body=1" for 214.3.17.38 at 2015-04-24 03:08:23 +0000
+
+
+Started GET "/assets/welcome.js?body=1" for 214.3.17.38 at 2015-04-24 03:08:23 +0000
+
+
+Started GET "/assets/application.js?body=1" for 214.3.17.38 at 2015-04-24 03:08:23 +0000
+
+
+Started GET "/" for 214.3.17.38 at 2015-04-24 03:11:16 +0000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 241ms (Views: 240.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 214.3.17.38 at 2015-04-24 03:11:16 +0000
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 214.3.17.38 at 2015-04-24 03:11:16 +0000
+
+
+Started GET "/assets/application.css?body=1" for 214.3.17.38 at 2015-04-24 03:11:16 +0000
+
+
+Started GET "/assets/uikit.css?body=1" for 214.3.17.38 at 2015-04-24 03:11:16 +0000
+
+
+Started GET "/assets/turbolinks.js?body=1" for 214.3.17.38 at 2015-04-24 03:11:16 +0000
+
+
+Started GET "/assets/evil-icons.css?body=1" for 214.3.17.38 at 2015-04-24 03:11:16 +0000
+
+
+Started GET "/assets/welcome.css?body=1" for 214.3.17.38 at 2015-04-24 03:11:16 +0000
+
+
+Started GET "/assets/patients.css?body=1" for 214.3.17.38 at 2015-04-24 03:11:16 +0000
+
+
+Started GET "/assets/uikit/uikit.js?body=1" for 214.3.17.38 at 2015-04-24 03:11:16 +0000
+
+
+Started GET "/assets/uikit/components/autocomplete.js?body=1" for 214.3.17.38 at 2015-04-24 03:11:16 +0000
+
+
+Started GET "/assets/uikit/components/cover.js?body=1" for 214.3.17.38 at 2015-04-24 03:11:16 +0000
+
+
+Started GET "/assets/uikit/components/form-password.js?body=1" for 214.3.17.38 at 2015-04-24 03:11:16 +0000
+
+
+Started GET "/assets/uikit/components/form-select.js?body=1" for 214.3.17.38 at 2015-04-24 03:11:16 +0000
+
+
+Started GET "/assets/uikit/components/datepicker.js?body=1" for 214.3.17.38 at 2015-04-24 03:11:16 +0000
+
+
+Started GET "/assets/uikit/components/htmleditor.js?body=1" for 214.3.17.38 at 2015-04-24 03:11:16 +0000
+
+
+Started GET "/assets/uikit/components/notify.js?body=1" for 214.3.17.38 at 2015-04-24 03:11:16 +0000
+
+
+Started GET "/assets/uikit/components/nestable.js?body=1" for 214.3.17.38 at 2015-04-24 03:11:16 +0000
+
+
+Started GET "/assets/uikit/components/search.js?body=1" for 214.3.17.38 at 2015-04-24 03:11:16 +0000
+
+
+Started GET "/assets/uikit/components/pagination.js?body=1" for 214.3.17.38 at 2015-04-24 03:11:16 +0000
+
+
+Started GET "/assets/uikit/components/sortable.js?body=1" for 214.3.17.38 at 2015-04-24 03:11:16 +0000
+
+
+Started GET "/assets/uikit/components/sticky.js?body=1" for 214.3.17.38 at 2015-04-24 03:11:16 +0000
+
+
+Started GET "/assets/uikit/components/timepicker.js?body=1" for 214.3.17.38 at 2015-04-24 03:11:16 +0000
+
+
+Started GET "/assets/patients.js?body=1" for 214.3.17.38 at 2015-04-24 03:11:16 +0000
+
+
+Started GET "/assets/welcome.js?body=1" for 214.3.17.38 at 2015-04-24 03:11:16 +0000
+
+
+Started GET "/assets/uikit/components/upload.js?body=1" for 214.3.17.38 at 2015-04-24 03:11:16 +0000
+
+
+Started GET "/assets/uikit.js?body=1" for 214.3.17.38 at 2015-04-24 03:11:17 +0000
+
+
+Started GET "/assets/application.js?body=1" for 214.3.17.38 at 2015-04-24 03:11:17 +0000
+
+
+Started GET "/" for 214.3.17.38 at 2015-04-24 03:12:14 +0000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 152ms (Views: 151.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 214.3.17.38 at 2015-04-24 03:12:14 +0000
+
+
+Started GET "/assets/evil-icons.css?body=1" for 214.3.17.38 at 2015-04-24 03:12:14 +0000
+
+
+Started GET "/assets/application.css?body=1" for 214.3.17.38 at 2015-04-24 03:12:14 +0000
+
+
+Started GET "/assets/uikit.css?body=1" for 214.3.17.38 at 2015-04-24 03:12:14 +0000
+
+
+Started GET "/assets/patients.css?body=1" for 214.3.17.38 at 2015-04-24 03:12:14 +0000
+
+
+Started GET "/assets/jquery.js?body=1" for 214.3.17.38 at 2015-04-24 03:12:14 +0000
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 214.3.17.38 at 2015-04-24 03:12:14 +0000
+
+
+Started GET "/assets/turbolinks.js?body=1" for 214.3.17.38 at 2015-04-24 03:12:14 +0000
+
+
+Started GET "/assets/uikit/uikit.js?body=1" for 214.3.17.38 at 2015-04-24 03:12:14 +0000
+
+
+Started GET "/assets/uikit/components/autocomplete.js?body=1" for 214.3.17.38 at 2015-04-24 03:12:14 +0000
+
+
+Started GET "/assets/uikit/components/cover.js?body=1" for 214.3.17.38 at 2015-04-24 03:12:14 +0000
+
+
+Started GET "/assets/uikit/components/datepicker.js?body=1" for 214.3.17.38 at 2015-04-24 03:12:14 +0000
+
+
+Started GET "/assets/uikit/components/form-password.js?body=1" for 214.3.17.38 at 2015-04-24 03:12:14 +0000
+
+
+Started GET "/assets/uikit/components/form-select.js?body=1" for 214.3.17.38 at 2015-04-24 03:12:14 +0000
+
+
+Started GET "/assets/uikit/components/htmleditor.js?body=1" for 214.3.17.38 at 2015-04-24 03:12:14 +0000
+
+
+Started GET "/assets/uikit/components/nestable.js?body=1" for 214.3.17.38 at 2015-04-24 03:12:14 +0000
+
+
+Started GET "/assets/uikit/components/notify.js?body=1" for 214.3.17.38 at 2015-04-24 03:12:14 +0000
+
+
+Started GET "/assets/uikit/components/pagination.js?body=1" for 214.3.17.38 at 2015-04-24 03:12:14 +0000
+
+
+Started GET "/assets/uikit/components/search.js?body=1" for 214.3.17.38 at 2015-04-24 03:12:14 +0000
+
+
+Started GET "/assets/uikit/components/sortable.js?body=1" for 214.3.17.38 at 2015-04-24 03:12:14 +0000
+
+
+Started GET "/assets/uikit/components/sticky.js?body=1" for 214.3.17.38 at 2015-04-24 03:12:14 +0000
+
+
+Started GET "/assets/uikit/components/timepicker.js?body=1" for 214.3.17.38 at 2015-04-24 03:12:14 +0000
+
+
+Started GET "/assets/uikit/components/upload.js?body=1" for 214.3.17.38 at 2015-04-24 03:12:14 +0000
+
+
+Started GET "/assets/uikit.js?body=1" for 214.3.17.38 at 2015-04-24 03:12:14 +0000
+
+
+Started GET "/assets/patients.js?body=1" for 214.3.17.38 at 2015-04-24 03:12:14 +0000
+
+
+Started GET "/assets/welcome.js?body=1" for 214.3.17.38 at 2015-04-24 03:12:14 +0000
+
+
+Started GET "/assets/application.js?body=1" for 214.3.17.38 at 2015-04-24 03:12:14 +0000
+
+
+Started GET "/" for 214.3.17.37 at 2015-04-24 03:20:36 +0000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 170ms (Views: 169.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:36 +0000
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:36 +0000
+
+
+Started GET "/assets/evil-icons.css?body=1" for 214.3.17.37 at 2015-04-24 03:20:36 +0000
+
+
+Started GET "/assets/patients.css?body=1" for 214.3.17.37 at 2015-04-24 03:20:36 +0000
+
+
+Started GET "/assets/welcome.css?body=1" for 214.3.17.37 at 2015-04-24 03:20:36 +0000
+
+
+Started GET "/assets/uikit.css?body=1" for 214.3.17.37 at 2015-04-24 03:20:36 +0000
+
+
+Started GET "/assets/application.css?body=1" for 214.3.17.37 at 2015-04-24 03:20:36 +0000
+
+
+Started GET "/assets/turbolinks.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:36 +0000
+
+
+Started GET "/assets/uikit/uikit.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:36 +0000
+
+
+Started GET "/assets/uikit/components/autocomplete.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:36 +0000
+
+
+Started GET "/assets/uikit/components/cover.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:36 +0000
+
+
+Started GET "/assets/uikit/components/datepicker.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:36 +0000
+
+
+Started GET "/assets/uikit/components/form-password.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:36 +0000
+
+
+Started GET "/assets/uikit/components/form-select.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:36 +0000
+
+
+Started GET "/assets/uikit/components/htmleditor.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:36 +0000
+
+
+Started GET "/assets/uikit/components/nestable.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:36 +0000
+
+
+Started GET "/assets/uikit/components/notify.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:36 +0000
+
+
+Started GET "/assets/uikit/components/pagination.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:36 +0000
+
+
+Started GET "/assets/uikit/components/search.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:36 +0000
+
+
+Started GET "/assets/uikit/components/sortable.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:36 +0000
+
+
+Started GET "/assets/uikit/components/sticky.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:36 +0000
+
+
+Started GET "/assets/uikit/components/timepicker.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:36 +0000
+
+
+Started GET "/assets/uikit/components/upload.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:36 +0000
+
+
+Started GET "/assets/uikit.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:36 +0000
+
+
+Started GET "/assets/patients.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:36 +0000
+
+
+Started GET "/assets/welcome.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:36 +0000
+
+
+Started GET "/assets/application.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:36 +0000
+
+
+Started GET "/" for 214.3.17.37 at 2015-04-24 03:20:51 +0000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 172ms (Views: 171.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/evil-icons.css?body=1" for 214.3.17.37 at 2015-04-24 03:20:51 +0000
+
+
+Started GET "/assets/welcome.css?body=1" for 214.3.17.37 at 2015-04-24 03:20:51 +0000
+
+
+Started GET "/assets/application.css?body=1" for 214.3.17.37 at 2015-04-24 03:20:51 +0000
+
+
+Started GET "/assets/patients.css?body=1" for 214.3.17.37 at 2015-04-24 03:20:51 +0000
+
+
+Started GET "/assets/uikit.css?body=1" for 214.3.17.37 at 2015-04-24 03:20:51 +0000
+
+
+Started GET "/assets/jquery.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:51 +0000
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:51 +0000
+
+
+Started GET "/assets/turbolinks.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:51 +0000
+
+
+Started GET "/assets/uikit/uikit.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:51 +0000
+
+
+Started GET "/assets/uikit/components/autocomplete.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:51 +0000
+
+
+Started GET "/assets/uikit/components/cover.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:51 +0000
+
+
+Started GET "/assets/uikit/components/datepicker.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:51 +0000
+
+
+Started GET "/assets/uikit/components/form-password.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:51 +0000
+
+
+Started GET "/assets/uikit/components/form-select.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:51 +0000
+
+
+Started GET "/assets/uikit/components/htmleditor.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:51 +0000
+
+
+Started GET "/assets/uikit/components/nestable.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:51 +0000
+
+
+Started GET "/assets/uikit/components/notify.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:51 +0000
+
+
+Started GET "/assets/uikit/components/pagination.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:51 +0000
+
+
+Started GET "/assets/uikit/components/search.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:51 +0000
+
+
+Started GET "/assets/uikit/components/sortable.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:51 +0000
+
+
+Started GET "/assets/uikit/components/sticky.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:51 +0000
+
+
+Started GET "/assets/uikit/components/timepicker.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:51 +0000
+
+
+Started GET "/assets/uikit/components/upload.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:51 +0000
+
+
+Started GET "/assets/uikit.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:51 +0000
+
+
+Started GET "/assets/patients.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:51 +0000
+
+
+Started GET "/assets/welcome.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:51 +0000
+
+
+Started GET "/assets/application.js?body=1" for 214.3.17.37 at 2015-04-24 03:20:51 +0000
+
+
+Started GET "/" for 214.3.17.37 at 2015-04-24 03:21:21 +0000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 173ms (Views: 172.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 214.3.17.37 at 2015-04-24 03:21:22 +0000
+
+
+Started GET "/assets/welcome.css?body=1" for 214.3.17.37 at 2015-04-24 03:21:22 +0000
+
+
+Started GET "/assets/evil-icons.css?body=1" for 214.3.17.37 at 2015-04-24 03:21:22 +0000
+
+
+Started GET "/assets/uikit.css?body=1" for 214.3.17.37 at 2015-04-24 03:21:22 +0000
+
+
+Started GET "/assets/patients.css?body=1" for 214.3.17.37 at 2015-04-24 03:21:22 +0000
+
+
+Started GET "/assets/jquery.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:22 +0000
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:22 +0000
+
+
+Started GET "/assets/turbolinks.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:22 +0000
+
+
+Started GET "/assets/uikit/uikit.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:22 +0000
+
+
+Started GET "/assets/uikit/components/autocomplete.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:22 +0000
+
+
+Started GET "/assets/uikit/components/cover.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:22 +0000
+
+
+Started GET "/assets/uikit/components/datepicker.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:22 +0000
+
+
+Started GET "/assets/uikit/components/form-password.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:22 +0000
+
+
+Started GET "/assets/uikit/components/form-select.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:22 +0000
+
+
+Started GET "/assets/uikit/components/htmleditor.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:22 +0000
+
+
+Started GET "/assets/uikit/components/nestable.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:22 +0000
+
+
+Started GET "/assets/uikit/components/notify.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:22 +0000
+
+
+Started GET "/assets/uikit/components/pagination.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:22 +0000
+
+
+Started GET "/assets/uikit/components/search.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:22 +0000
+
+
+Started GET "/assets/uikit/components/sortable.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:22 +0000
+
+
+Started GET "/assets/uikit/components/sticky.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:22 +0000
+
+
+Started GET "/assets/uikit/components/timepicker.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:22 +0000
+
+
+Started GET "/assets/uikit/components/upload.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:22 +0000
+
+
+Started GET "/assets/uikit.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:22 +0000
+
+
+Started GET "/assets/patients.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:22 +0000
+
+
+Started GET "/assets/welcome.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:22 +0000
+
+
+Started GET "/assets/application.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:22 +0000
+
+
+Started GET "/" for 214.3.17.37 at 2015-04-24 03:21:29 +0000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 202ms (Views: 201.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/patients.css?body=1" for 214.3.17.37 at 2015-04-24 03:21:29 +0000
+
+
+Started GET "/assets/welcome.css?body=1" for 214.3.17.37 at 2015-04-24 03:21:29 +0000
+
+
+Started GET "/assets/application.css?body=1" for 214.3.17.37 at 2015-04-24 03:21:29 +0000
+
+
+Started GET "/assets/uikit.css?body=1" for 214.3.17.37 at 2015-04-24 03:21:29 +0000
+
+
+Started GET "/assets/evil-icons.css?body=1" for 214.3.17.37 at 2015-04-24 03:21:29 +0000
+
+
+Started GET "/assets/jquery.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:29 +0000
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:29 +0000
+
+
+Started GET "/assets/turbolinks.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:29 +0000
+
+
+Started GET "/assets/uikit/uikit.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:29 +0000
+
+
+Started GET "/assets/uikit/components/autocomplete.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:29 +0000
+
+
+Started GET "/assets/uikit/components/cover.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:29 +0000
+
+
+Started GET "/assets/uikit/components/datepicker.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:29 +0000
+
+
+Started GET "/assets/uikit/components/form-password.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:29 +0000
+
+
+Started GET "/assets/uikit/components/form-select.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:29 +0000
+
+
+Started GET "/assets/uikit/components/htmleditor.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:29 +0000
+
+
+Started GET "/assets/uikit/components/nestable.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:29 +0000
+
+
+Started GET "/assets/uikit/components/notify.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:29 +0000
+
+
+Started GET "/assets/uikit/components/pagination.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:29 +0000
+
+
+Started GET "/assets/uikit/components/search.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:29 +0000
+
+
+Started GET "/assets/uikit/components/sortable.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:29 +0000
+
+
+Started GET "/assets/uikit/components/sticky.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:29 +0000
+
+
+Started GET "/assets/uikit/components/timepicker.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:29 +0000
+
+
+Started GET "/assets/uikit/components/upload.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:29 +0000
+
+
+Started GET "/assets/uikit.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:29 +0000
+
+
+Started GET "/assets/patients.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:29 +0000
+
+
+Started GET "/assets/welcome.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:29 +0000
+
+
+Started GET "/assets/application.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:29 +0000
+
+
+Started GET "/" for 214.3.17.37 at 2015-04-24 03:21:49 +0000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 187ms (Views: 186.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 214.3.17.37 at 2015-04-24 03:21:50 +0000
+
+
+Started GET "/assets/uikit.css?body=1" for 214.3.17.37 at 2015-04-24 03:21:50 +0000
+
+
+Started GET "/assets/evil-icons.css?body=1" for 214.3.17.37 at 2015-04-24 03:21:50 +0000
+
+
+Started GET "/assets/welcome.css?body=1" for 214.3.17.37 at 2015-04-24 03:21:50 +0000
+
+
+Started GET "/assets/patients.css?body=1" for 214.3.17.37 at 2015-04-24 03:21:50 +0000
+
+
+Started GET "/assets/jquery.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:50 +0000
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:50 +0000
+
+
+Started GET "/assets/turbolinks.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:50 +0000
+
+
+Started GET "/assets/uikit/uikit.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:50 +0000
+
+
+Started GET "/assets/uikit/components/autocomplete.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:50 +0000
+
+
+Started GET "/assets/uikit/components/cover.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:50 +0000
+
+
+Started GET "/assets/uikit/components/datepicker.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:50 +0000
+
+
+Started GET "/assets/uikit/components/form-password.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:50 +0000
+
+
+Started GET "/assets/uikit/components/form-select.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:50 +0000
+
+
+Started GET "/assets/uikit/components/htmleditor.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:50 +0000
+
+
+Started GET "/assets/uikit/components/nestable.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:50 +0000
+
+
+Started GET "/assets/uikit/components/notify.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:50 +0000
+
+
+Started GET "/assets/uikit/components/pagination.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:50 +0000
+
+
+Started GET "/assets/uikit/components/search.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:50 +0000
+
+
+Started GET "/assets/uikit/components/sortable.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:50 +0000
+
+
+Started GET "/assets/uikit/components/sticky.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:50 +0000
+
+
+Started GET "/assets/uikit/components/upload.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:50 +0000
+
+
+Started GET "/assets/uikit/components/timepicker.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:50 +0000
+
+
+Started GET "/assets/uikit.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:50 +0000
+
+
+Started GET "/assets/patients.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:50 +0000
+
+
+Started GET "/assets/welcome.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:50 +0000
+
+
+Started GET "/assets/application.js?body=1" for 214.3.17.37 at 2015-04-24 03:21:50 +0000
+
+
+Started GET "/" for 214.3.17.37 at 2015-04-24 03:22:40 +0000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 251ms (Views: 250.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 214.3.17.37 at 2015-04-24 03:22:40 +0000
+
+
+Started GET "/assets/patients.css?body=1" for 214.3.17.37 at 2015-04-24 03:22:40 +0000
+
+
+Started GET "/assets/uikit.css?body=1" for 214.3.17.37 at 2015-04-24 03:22:40 +0000
+
+
+Started GET "/assets/application.css?body=1" for 214.3.17.37 at 2015-04-24 03:22:40 +0000
+
+
+Started GET "/assets/evil-icons.css?body=1" for 214.3.17.37 at 2015-04-24 03:22:40 +0000
+
+
+Started GET "/assets/jquery.js?body=1" for 214.3.17.37 at 2015-04-24 03:22:40 +0000
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 214.3.17.37 at 2015-04-24 03:22:40 +0000
+
+
+Started GET "/assets/turbolinks.js?body=1" for 214.3.17.37 at 2015-04-24 03:22:40 +0000
+
+
+Started GET "/assets/uikit/uikit.js?body=1" for 214.3.17.37 at 2015-04-24 03:22:40 +0000
+
+
+Started GET "/assets/uikit/components/autocomplete.js?body=1" for 214.3.17.37 at 2015-04-24 03:22:40 +0000
+
+
+Started GET "/assets/uikit/components/cover.js?body=1" for 214.3.17.37 at 2015-04-24 03:22:40 +0000
+
+
+Started GET "/assets/uikit/components/datepicker.js?body=1" for 214.3.17.37 at 2015-04-24 03:22:40 +0000
+
+
+Started GET "/assets/uikit/components/form-password.js?body=1" for 214.3.17.37 at 2015-04-24 03:22:40 +0000
+
+
+Started GET "/assets/uikit/components/form-select.js?body=1" for 214.3.17.37 at 2015-04-24 03:22:40 +0000
+
+
+Started GET "/assets/uikit/components/htmleditor.js?body=1" for 214.3.17.37 at 2015-04-24 03:22:40 +0000
+
+
+Started GET "/assets/uikit/components/nestable.js?body=1" for 214.3.17.37 at 2015-04-24 03:22:40 +0000
+
+
+Started GET "/assets/uikit/components/notify.js?body=1" for 214.3.17.37 at 2015-04-24 03:22:40 +0000
+
+
+Started GET "/assets/uikit/components/pagination.js?body=1" for 214.3.17.37 at 2015-04-24 03:22:40 +0000
+
+
+Started GET "/assets/uikit/components/search.js?body=1" for 214.3.17.37 at 2015-04-24 03:22:40 +0000
+
+
+Started GET "/assets/uikit/components/sortable.js?body=1" for 214.3.17.37 at 2015-04-24 03:22:40 +0000
+
+
+Started GET "/assets/uikit/components/sticky.js?body=1" for 214.3.17.37 at 2015-04-24 03:22:40 +0000
+
+
+Started GET "/assets/uikit/components/timepicker.js?body=1" for 214.3.17.37 at 2015-04-24 03:22:40 +0000
+
+
+Started GET "/assets/uikit/components/upload.js?body=1" for 214.3.17.37 at 2015-04-24 03:22:40 +0000
+
+
+Started GET "/assets/uikit.js?body=1" for 214.3.17.37 at 2015-04-24 03:22:40 +0000
+
+
+Started GET "/assets/patients.js?body=1" for 214.3.17.37 at 2015-04-24 03:22:40 +0000
+
+
+Started GET "/assets/welcome.js?body=1" for 214.3.17.37 at 2015-04-24 03:22:40 +0000
+
+
+Started GET "/assets/application.js?body=1" for 214.3.17.37 at 2015-04-24 03:22:40 +0000
+
+
+Started GET "/" for 214.3.17.37 at 2015-04-24 03:23:50 +0000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 242ms (Views: 240.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/uikit.css?body=1" for 214.3.17.37 at 2015-04-24 03:23:50 +0000
+
+
+Started GET "/assets/welcome.css?body=1" for 214.3.17.37 at 2015-04-24 03:23:50 +0000
+
+
+Started GET "/assets/patients.css?body=1" for 214.3.17.37 at 2015-04-24 03:23:50 +0000
+
+
+Started GET "/assets/evil-icons.css?body=1" for 214.3.17.37 at 2015-04-24 03:23:50 +0000
+
+
+Started GET "/assets/application.css?body=1" for 214.3.17.37 at 2015-04-24 03:23:50 +0000
+
+
+Started GET "/assets/jquery.js?body=1" for 214.3.17.37 at 2015-04-24 03:23:50 +0000
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 214.3.17.37 at 2015-04-24 03:23:50 +0000
+
+
+Started GET "/assets/turbolinks.js?body=1" for 214.3.17.37 at 2015-04-24 03:23:50 +0000
+
+
+Started GET "/assets/uikit/uikit.js?body=1" for 214.3.17.37 at 2015-04-24 03:23:50 +0000
+
+
+Started GET "/assets/uikit/components/autocomplete.js?body=1" for 214.3.17.37 at 2015-04-24 03:23:50 +0000
+
+
+Started GET "/assets/uikit/components/cover.js?body=1" for 214.3.17.37 at 2015-04-24 03:23:50 +0000
+
+
+Started GET "/assets/uikit/components/datepicker.js?body=1" for 214.3.17.37 at 2015-04-24 03:23:50 +0000
+
+
+Started GET "/assets/uikit/components/form-password.js?body=1" for 214.3.17.37 at 2015-04-24 03:23:50 +0000
+
+
+Started GET "/assets/uikit/components/form-select.js?body=1" for 214.3.17.37 at 2015-04-24 03:23:50 +0000
+
+
+Started GET "/assets/uikit/components/htmleditor.js?body=1" for 214.3.17.37 at 2015-04-24 03:23:50 +0000
+
+
+Started GET "/assets/uikit/components/nestable.js?body=1" for 214.3.17.37 at 2015-04-24 03:23:50 +0000
+
+
+Started GET "/assets/uikit/components/notify.js?body=1" for 214.3.17.37 at 2015-04-24 03:23:50 +0000
+
+
+Started GET "/assets/uikit/components/pagination.js?body=1" for 214.3.17.37 at 2015-04-24 03:23:50 +0000
+
+
+Started GET "/assets/uikit/components/search.js?body=1" for 214.3.17.37 at 2015-04-24 03:23:50 +0000
+
+
+Started GET "/assets/uikit/components/sortable.js?body=1" for 214.3.17.37 at 2015-04-24 03:23:50 +0000
+
+
+Started GET "/assets/uikit/components/sticky.js?body=1" for 214.3.17.37 at 2015-04-24 03:23:50 +0000
+
+
+Started GET "/assets/uikit/components/timepicker.js?body=1" for 214.3.17.37 at 2015-04-24 03:23:50 +0000
+
+
+Started GET "/assets/uikit/components/upload.js?body=1" for 214.3.17.37 at 2015-04-24 03:23:50 +0000
+
+
+Started GET "/assets/uikit.js?body=1" for 214.3.17.37 at 2015-04-24 03:23:50 +0000
+
+
+Started GET "/assets/patients.js?body=1" for 214.3.17.37 at 2015-04-24 03:23:50 +0000
+
+
+Started GET "/assets/welcome.js?body=1" for 214.3.17.37 at 2015-04-24 03:23:50 +0000
+
+
+Started GET "/assets/application.js?body=1" for 214.3.17.37 at 2015-04-24 03:23:50 +0000
