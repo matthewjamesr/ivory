@@ -32,6 +32,10 @@ gem 'uikit-sass-rails'
 # Use Evil Icons
 gem "evil_icons"
 
+#Use Devise Authentication and Gravatar support
+gem "devise"
+gem "gravtastic"
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 

@@ -11,6 +11,24 @@
   <%= evil_icons_sprite %>
 
   <div class="uk-grid">
+    <% if notice %>
+      <p class="alert alert-success"><%= notice %></p>
+    <% end %>
+    <% if alert %>
+      <p class="alert alert-danger"><%= alert %></p>
+    <% end %>
+    </div>
+
+    <header class="uk-width-1-1 border-bottom">
+        <h1 style="margin-bottom: 20px;" class="uk-align-left margin-left-large margin-top-large margin-bottom-large">
+          <%= link_to 'Ivory', '/', class: 'uk-text-bold' %>
+        </h1>
+
+        <ul class="uk-list uk-float-right margin-right-large">
+          <li><a href="#menu-modal" data-uk-modal><%= evil_icon 'ei-navicon', size: :m %></a></li>
+        </ul>
+    </header>
+
     <%= yield %>
   </div>
 

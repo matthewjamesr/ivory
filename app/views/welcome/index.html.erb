@@ -1,23 +1,10 @@
 <%= evil_icons_sprite %>
 
-<header class="uk-width-1-1 border-bottom">
-    <h1 style="margin-bottom: 20px;" class="uk-align-left margin-left-large margin-top-large margin-bottom-large">
-      <b>Ivory</b>
-    </h1>
-
-    <ul class="uk-list uk-float-right margin-right-large">
-      <li><a href="#menu-modal" data-uk-modal><%= evil_icon 'ei-navicon', size: :m %></a></li>
-    </ul>
-</header>
-
-
 <section style="margin-top: 70px;" class="uk-vertical-align uk-width-1-1 hero border-bottom bg-alt">
 
   <div class="uk-vertical-align-middle uk-width-1-4"></div>
-  <div class="uk-vertical-align-middle uk-width-1-2 uk-container-center
-              margin-bottom-large">
-    <h2 class="uk-text-center">How much could the world benifit from better preventative
-        health-care?</h2>
+  <div class="uk-vertical-align-middle uk-width-1-2 uk-container-center margin-bottom-large">
+    <h2 class="uk-text-center">How much could the world benifit from better preventative health-care?</h2>
   </div>
   <div class="uk-vertical-align-middle uk-width-1-4"></div>
 
@@ -54,23 +41,32 @@
   <div class="uk-modal-dialog uk-modal-dialog-large uk-height-viewport uk-vertical-align">
     <div class="uk-width-large-1-6 uk-width-medium-2-10 uk-width-small-1-10 uk-vertical-align-middle"></div>
     <div class="uk-width-large-2-6 uk-width-medium-2-6  uk-width-small-4-10 uk-vertical-align-middle border-right menu-panel" style="padding-right: 100px;">
-      <h2>Members</h2>
-      <form class="uk-form uk-form-stacked">
-        <div class="uk-form-row">
-          <div class="uk-form-controls">
-            <input style="height: 50px; padding-left: 15px; padding-top: 15px; padding-bottom: 15px;" type="text" placeholder="Your email address" class="uk-width-1-1 uk-form-large" />
-            <input style="height: 50px; padding-left: 15px; padding-top: 15px; padding-bottom: 15px;" type="text" placeholder="Your password" class="uk-width-1-1 uk-form-large" />
-          </div>
-        </div>
-        <button class="uk-button uk-button-primary uk-button-large uk-width-1-1 margin-top-large" type="submit">Sign in</button>
-        <h5 class="uk-float-right button-sub-text text-alt">Forgot your password?</h5>
-      </form>
 
-      <br>
-      <h2>Enrolled to Ivory?</h2>
-      <a class="button uk-button uk-button-default uk-button-large uk-width-1-1" href="">Create account</a>
-      <h5 class="button-sub-text text-alt">Physician not participating? <a href="#">Ask why</a></h5>
+      <% if user_signed_in? %>
+        <%= image_tag current_user.gravatar_url, class: 'uk-align-left' %>
+        <h2 style="margin: 0px;">Welcome</h2>
+        <h6 style="margin: 0px;" class="uk-text-muted"><%= current_user.email %></h6>
+        <%= link_to 'Sign out', destroy_user_session_path, method: :delete, class: 'uk-button uk-button-default' %>
+      <% else %>
+        <h2>Members</h2>
+        <%= form_for(:user, class: 'uk-form uk-form-stacked', url: '/users/sign_in') do |f| %>
+          <div class="uk-form-row">
+            <div class="uk-form-controls">
+              <%= f.email_field :email, autofocus: true, placeholder: 'Your email', style: 'height: 50px; padding-left: 15px; padding-top: 15px; padding-bottom: 15px;', class: 'uk-width-1-1 uk-form-large' %>
+              <%= f.password_field :password, autocomplete: "off", placeholder: 'Your password', style: 'height: 50px; padding-left: 15px; padding-top: 15px; padding-bottom: 15px;', class: 'uk-width-1-1 uk-form-large' %>
+              <%= f.submit "Sign in", class: 'uk-button uk-button-primary uk-button-large uk-width-1-1 margin-top-large' %>
+            </div>
+          <h5 class="uk-float-right button-sub-text text-alt">Forgot your password?</h5>
+        <% end %>
+
+        <br>
+        <h2>Enrolled to Ivory?</h2>
+        <a class="button uk-button uk-button-default uk-button-large uk-width-1-1" href="/users/sign_up">Create account</a>
+        <h5 class="button-sub-text text-alt">Physician not participating? <a href="#">Ask why</a></h5>
+      </div>
+      <% end %>
     </div>
+
     <div class="uk-width-large-2-6 uk-width-medium-2-6 uk-width-small-4-10 uk-vertical-align-middle menu-panel" style="padding-left: 100px;">
       <ul class="uk-list uk-list-space uk-text-large">
         <li>Search doctors, benifits, and more</li>
@@ -80,7 +76,7 @@
         <li>Careers</li>
         <li>Press</li>
       </ul>
-      
+
       <ul class="uk-list text-alt margin-top-large">
         <li>Privacy Policy</li>
         <li>Our Terms of Service</li>
