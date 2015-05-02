@@ -44,11 +44,10 @@
 
           <% if user_signed_in? %>
             <div class="uk-display-block">
-              <%= image_tag current_user.gravatar_url, class: 'uk-hidden-small uk-align-right' %>
               <h2 style="margin: 0px;" class="uk-text-right">Welcome</h2>
               <h6 style="margin: 0px;" class="uk-text-right uk-text-muted"><%= current_user.email %></h6>
             </div>
-            <ul class="uk-list uk-list-space uk-text-large uk-text-right" style="margin-top: 50px;">
+            <ul class="uk-list uk-list-space uk-text-large uk-text-right margin-top-large">
               <li>My profile</li>
               <li>Recent activities</li>
               <li>Upcoming tasks</li>
